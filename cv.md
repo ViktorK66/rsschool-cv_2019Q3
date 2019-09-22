@@ -1,8 +1,8 @@
-<img align = "right" width = "240" height = "320" src = "assets/images/photo.jpg"></img>
+<img align = "right" width = "240" height = "320" src = "assets/images/photo.jpg">
 
 # Viktor Koshelev
 
- ## Contacs:
+## Contacs:
  * **Tel. №** +375 (29) 328-46-08 **(Viber, Teleram, WhatsApp)**;
  * **Skype:** vulpeskyuubi
  * **E-mail:** koshelevviktor92@gmail.com
@@ -13,7 +13,7 @@ technical literature, watch video tutorials on youtube. I’m looking for an
 opportunity that will allow me to use my knowledge in the field of information 
 technology, to be creative and to improve myself. Excellent problem-solving skills 
 and interpersonal skills. I set goals and persistently go to them!
-	 
+
 ## Skills:
  * HTML
  * CSS
@@ -56,11 +56,12 @@ and interpersonal skills. I set goals and persistently go to them!
 
 ```
 
-
 ## Experience:
   Thesis project "Development of an electronic work organization program"
+  
 ## Education:
  * Mogilev State A. Kuleshov University, Department of Physics and Mathematics, mathematician - system programmer
  * [CSS and HTML codeacademy](https://www.codecademy.com/profiles/0127031500)
+
 ## English:
-  A2 (Pre-Intermediate)
+A2 (Pre-Intermediate)
