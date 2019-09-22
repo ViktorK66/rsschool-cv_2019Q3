@@ -1,19 +1,20 @@
 <img align = "right" width = "240" height = "320" src = "assets/images/photo.jpg"></img>
-#Viktor Koshelev
 
-##Contacs:
+# Viktor Koshelev
+
+ ## Contacs:
  * **Tel. №** +375 (29) 328-46-08 **(Viber, Teleram, WhatsApp)**;
  * **Skype:** vulpeskyuubi
  * **E-mail:** koshelevviktor92@gmail.com
 
-##Summary:
+## Summary:
 I have good analytical skills. I am constantly updating my knowledge: I read 
 technical literature, watch video tutorials on youtube. I’m looking for an 
 opportunity that will allow me to use my knowledge in the field of information 
 technology, to be creative and to improve myself. Excellent problem-solving skills 
 and interpersonal skills. I set goals and persistently go to them!
 	 
-##Skills:
+## Skills:
  * HTML
  * CSS
  * JS
@@ -22,7 +23,7 @@ and interpersonal skills. I set goals and persistently go to them!
  * Database, SQL
  * JAVA
 
-##Code examples:
+## Code examples:
 ```html 
 
 <!DOCTYPE html>
@@ -56,10 +57,10 @@ and interpersonal skills. I set goals and persistently go to them!
 ```
 
 
-##Experience:
+## Experience:
   Thesis project "Development of an electronic work organization program"
-##Education:
+## Education:
  * Mogilev State A. Kuleshov University, Department of Physics and Mathematics, mathematician - system programmer
  * [CSS and HTML codeacademy](https://www.codecademy.com/profiles/0127031500)
-##English:
+## English:
   A2 (Pre-Intermediate)
